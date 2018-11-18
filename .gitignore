@@ -1,2 +1,7 @@
 *.jpeg
+*.jpg
 *.pdf
+*.png
+
+.vscode
+.idea
